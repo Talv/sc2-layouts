@@ -84,4 +84,5 @@
     <simpleType name="GameDataLink.EGameCatalog.ArmyCategory" data="string"/>
     <simpleType name="GameDataLink.EGameCatalog.ArmyUnit" data="string"/>
     <simpleType name="GameDataLink.EGameCatalog.Artifact" data="string"/>
+    <simpleType name="GameDataLink.EGameCatalog.Behavior" data="string">
 </map>
