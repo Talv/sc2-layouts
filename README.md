@@ -1,3 +1,9 @@
+**⚠️ THIS REPOSITORY IS OUT OF DATE AND NO LONGER MAINTAINED ⚠️**
+
+MOVED TO **[sc2-galaxy-toolkit](https://github.com/sc2-arcade-watcher/sc2-galaxy-toolkit)**
+
+---
+
 # StarCraft II Layouts
 
 Visual Studio Code extension introducing extensive support for **SC2Layout** language, utilized in games like StarCraft II and Heroes of the Storm.
